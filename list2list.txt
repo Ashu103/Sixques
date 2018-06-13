@@ -1,0 +1,12 @@
+list1=[]
+a=int(input('enter the length of list'))
+i=0
+list2=[]
+while(i<a):
+    l=int(input('enter the no'))
+    list1.append(l)
+    i=i+1
+    list2.append(2*l)
+
+
+print(list2)

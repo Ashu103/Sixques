@@ -1,0 +1,5 @@
+i=10;
+while(i>=1) :
+    u=input('enter the no')
+    print('the no entered  are ' ,u)
+    i=i-1;
